@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mouse33333
+- 👋 Hi, I’m @Arthur333
 - 👀 I’m interested in dealing with linguistic problems with Python
 - 🌱 I’m currently learning Python and how to design Chinese courses. I'm a Chinese teacher, by the way.
 - 📫 How to reach me michaelwang33333@gmail.com
